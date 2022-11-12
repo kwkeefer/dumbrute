@@ -2,8 +2,9 @@
 
 Because I can't afford a Burp Pro license.
 
-I got sick of fiddling with Hydra and wanted something a bit more flexible that didn't take forever.
+I got sick of fiddling with Hydra and wanted something a bit more flexible that didn't take forever to run.
 
+After installing run:
 
 ```shell
 dumbrute .
